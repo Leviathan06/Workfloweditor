@@ -1,3 +1,9 @@
+## License
+
+This project is licensed for **personal, educational, and non-commercial use only**.  
+Commercial use is **strictly prohibited** without explicit permission.  
+See the [LICENSE](./LICENSE) file for more details.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
